@@ -1,0 +1,5 @@
+title: Industry Directory
+description: Company profiles for industrial, logistics, utility and technology operators across the United States.
+exclude:
+  - EMAILS.md
+  - README.md
